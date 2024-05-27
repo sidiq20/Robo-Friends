@@ -6,5 +6,5 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 
-https://sidiq20.github.io/Robo-Friends/
+(https://aneagoie.github.io/robofriends/)
 
